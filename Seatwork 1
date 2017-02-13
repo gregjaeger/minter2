@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Input Variables (num1 and num2)
+Step 3: Add Values
+  If Sum (num1 + num2)
+     Difference (num1 - num2)
+     Product (num1 * num2)
+     Quotient (num 1 / num2)
+Step 4: Display Sum,Difference,Product,Quotient 
+Step 5: Stop
