@@ -1,0 +1,31 @@
+<Start>
+var MyGrade = "Please input grade"
+ switch (MyGrade) { 
+  case = "(<70)"
+    MyGrade= 0;
+    break;
+  case = "74 || 73 || 72 || 71 || 70"
+    MyGrade= 1.0;
+    break;
+  case = "79 || 78 || 77 || 76 || 75"
+    MyGrade= 1.5;
+    break;
+  case = "84 || 83 || 82 || 81 || 80"
+    MyGrade= 2.0;
+    break;
+  case = "88 || 87 || 86 || 85"
+    MyGrade= 2.5;
+    break;
+   case = "92 || 91 || 90 || 89"
+    MyGrade= 3.0;
+    break;
+   case = "96 || 95 || 94 || 93"
+    MyGrade= 3.5;
+    break;
+   case = "100 || 99 || 97"
+    MyGrade= 4.0;
+    break;
+   default: 
+    = "No grade inputed"
+    }
+<End>     
